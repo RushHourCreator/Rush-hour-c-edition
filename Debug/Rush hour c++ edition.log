@@ -1,0 +1,121 @@
+﻿  Classes.h
+c:\users\sasha\source\repos\all for one\rush hour c++ edition\classes.h(328): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\sasha\source\repos\all for one\rush hour c++ edition\classes.h(354): warning C4018: <: несоответствие типов со знаком и без знака
+  Functions.cpp
+c:\users\sasha\source\repos\all for one\rush hour c++ edition\classes.h(328): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\sasha\source\repos\all for one\rush hour c++ edition\classes.h(354): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\sasha\source\repos\all for one\rush hour c++ edition\functions.cpp(136): warning C4244: аргумент: преобразование "size_t" в "float", возможна потеря данных
+c:\users\sasha\source\repos\all for one\rush hour c++ edition\functions.cpp(139): warning C4244: аргумент: преобразование "size_t" в "float", возможна потеря данных
+c:\users\sasha\source\repos\all for one\rush hour c++ edition\functions.cpp(146): warning C4244: аргумент: преобразование "size_t" в "float", возможна потеря данных
+c:\users\sasha\source\repos\all for one\rush hour c++ edition\functions.cpp(149): warning C4244: аргумент: преобразование "size_t" в "float", возможна потеря данных
+c:\users\sasha\source\repos\all for one\rush hour c++ edition\functions.cpp(153): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\sasha\source\repos\all for one\rush hour c++ edition\functions.cpp(154): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\sasha\source\repos\all for one\rush hour c++ edition\functions.cpp(158): warning C4244: аргумент: преобразование "size_t" в "float", возможна потеря данных
+c:\users\sasha\source\repos\all for one\rush hour c++ edition\functions.cpp(176): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\sasha\source\repos\all for one\rush hour c++ edition\functions.cpp(188): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\sasha\source\repos\all for one\rush hour c++ edition\functions.cpp(189): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\sasha\source\repos\all for one\rush hour c++ edition\functions.cpp(198): warning C4244: аргумент: преобразование "size_t" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\sasha\source\repos\all for one\rush hour c++ edition\functions.cpp(200): warning C4244: аргумент: преобразование "size_t" в "float", возможна потеря данных
+c:\users\sasha\source\repos\all for one\rush hour c++ edition\functions.cpp(202): warning C4244: аргумент: преобразование "size_t" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\sasha\source\repos\all for one\rush hour c++ edition\functions.cpp(204): warning C4244: аргумент: преобразование "size_t" в "float", возможна потеря данных
+c:\users\sasha\source\repos\all for one\rush hour c++ edition\functions.cpp(207): warning C4244: аргумент: преобразование "size_t" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\sasha\source\repos\all for one\rush hour c++ edition\functions.cpp(209): warning C4244: аргумент: преобразование "size_t" в "float", возможна потеря данных
+c:\users\sasha\source\repos\all for one\rush hour c++ edition\functions.cpp(215): warning C4244: аргумент: преобразование "size_t" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\sasha\source\repos\all for one\rush hour c++ edition\functions.cpp(217): warning C4244: аргумент: преобразование "size_t" в "float", возможна потеря данных
+c:\users\sasha\source\repos\all for one\rush hour c++ edition\functions.cpp(220): warning C4244: аргумент: преобразование "size_t" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\sasha\source\repos\all for one\rush hour c++ edition\functions.cpp(222): warning C4244: аргумент: преобразование "size_t" в "float", возможна потеря данных
+c:\users\sasha\source\repos\all for one\rush hour c++ edition\functions.cpp(225): warning C4244: аргумент: преобразование "size_t" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\sasha\source\repos\all for one\rush hour c++ edition\functions.cpp(227): warning C4244: аргумент: преобразование "size_t" в "float", возможна потеря данных
+c:\users\sasha\source\repos\all for one\rush hour c++ edition\functions.cpp(230): warning C4244: аргумент: преобразование "size_t" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\sasha\source\repos\all for one\rush hour c++ edition\functions.cpp(232): warning C4244: аргумент: преобразование "size_t" в "float", возможна потеря данных
+c:\users\sasha\source\repos\all for one\rush hour c++ edition\functions.cpp(241): warning C4244: аргумент: преобразование "size_t" в "float", возможна потеря данных
+c:\users\sasha\source\repos\all for one\rush hour c++ edition\functions.cpp(245): warning C4244: аргумент: преобразование "size_t" в "float", возможна потеря данных
+c:\users\sasha\source\repos\all for one\rush hour c++ edition\functions.cpp(277): warning C4018: >=: несоответствие типов со знаком и без знака
+c:\users\sasha\source\repos\all for one\rush hour c++ edition\functions.cpp(277): warning C4018: <=: несоответствие типов со знаком и без знака
+c:\users\sasha\source\repos\all for one\rush hour c++ edition\functions.cpp(278): warning C4018: >=: несоответствие типов со знаком и без знака
+c:\users\sasha\source\repos\all for one\rush hour c++ edition\functions.cpp(278): warning C4018: <=: несоответствие типов со знаком и без знака
+c:\users\sasha\source\repos\all for one\rush hour c++ edition\functions.cpp(321): warning C4244: аргумент: преобразование "size_t" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\sasha\source\repos\all for one\rush hour c++ edition\functions.cpp(322): warning C4305: аргумент: усечение из "double" в "float"
+c:\users\sasha\source\repos\all for one\rush hour c++ edition\functions.cpp(331): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\sasha\source\repos\all for one\rush hour c++ edition\functions.cpp(331): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\sasha\source\repos\all for one\rush hour c++ edition\functions.cpp(336): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\sasha\source\repos\all for one\rush hour c++ edition\functions.cpp(336): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\sasha\source\repos\all for one\rush hour c++ edition\functions.cpp(338): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\sasha\source\repos\all for one\rush hour c++ edition\functions.cpp(343): warning C4244: аргумент: преобразование "size_t" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\sasha\source\repos\all for one\rush hour c++ edition\functions.cpp(344): warning C4305: аргумент: усечение из "double" в "float"
+c:\users\sasha\source\repos\all for one\rush hour c++ edition\functions.cpp(353): warning C4244: аргумент: преобразование "size_t" в "float", возможна потеря данных
+c:\users\sasha\source\repos\all for one\rush hour c++ edition\functions.cpp(358): warning C4244: аргумент: преобразование "size_t" в "float", возможна потеря данных
+c:\users\sasha\source\repos\all for one\rush hour c++ edition\functions.cpp(358): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\sasha\source\repos\all for one\rush hour c++ edition\functions.cpp(360): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\sasha\source\repos\all for one\rush hour c++ edition\functions.cpp(364): warning C4305: инициализация: усечение из "double" в "float"
+c:\users\sasha\source\repos\all for one\rush hour c++ edition\functions.cpp(414): warning C4018: >=: несоответствие типов со знаком и без знака
+c:\users\sasha\source\repos\all for one\rush hour c++ edition\functions.cpp(414): warning C4018: <=: несоответствие типов со знаком и без знака
+c:\users\sasha\source\repos\all for one\rush hour c++ edition\functions.cpp(415): warning C4018: >=: несоответствие типов со знаком и без знака
+c:\users\sasha\source\repos\all for one\rush hour c++ edition\functions.cpp(415): warning C4018: <=: несоответствие типов со знаком и без знака
+c:\users\sasha\source\repos\all for one\rush hour c++ edition\functions.cpp(447): warning C4244: аргумент: преобразование "size_t" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\sasha\source\repos\all for one\rush hour c++ edition\functions.cpp(448): warning C4305: аргумент: усечение из "double" в "float"
+c:\users\sasha\source\repos\all for one\rush hour c++ edition\functions.cpp(452): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\sasha\source\repos\all for one\rush hour c++ edition\functions.cpp(452): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\sasha\source\repos\all for one\rush hour c++ edition\functions.cpp(457): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\sasha\source\repos\all for one\rush hour c++ edition\functions.cpp(457): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\sasha\source\repos\all for one\rush hour c++ edition\functions.cpp(459): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\sasha\source\repos\all for one\rush hour c++ edition\functions.cpp(467): warning C4244: аргумент: преобразование "size_t" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\sasha\source\repos\all for one\rush hour c++ edition\functions.cpp(468): warning C4305: аргумент: усечение из "double" в "float"
+c:\users\sasha\source\repos\all for one\rush hour c++ edition\functions.cpp(472): warning C4244: аргумент: преобразование "size_t" в "float", возможна потеря данных
+c:\users\sasha\source\repos\all for one\rush hour c++ edition\functions.cpp(477): warning C4244: аргумент: преобразование "size_t" в "float", возможна потеря данных
+c:\users\sasha\source\repos\all for one\rush hour c++ edition\functions.cpp(477): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\sasha\source\repos\all for one\rush hour c++ edition\functions.cpp(479): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\sasha\source\repos\all for one\rush hour c++ edition\functions.cpp(482): warning C4305: инициализация: усечение из "double" в "float"
+  Rush hour c++ edition.cpp
+c:\users\sasha\source\repos\all for one\rush hour c++ edition\classes.h(328): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\sasha\source\repos\all for one\rush hour c++ edition\classes.h(354): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода...
+  Rush hour c++ edition.vcxproj -> C:\Users\sasha\source\repos\All for one\Debug\Rush hour c++ edition.exe
