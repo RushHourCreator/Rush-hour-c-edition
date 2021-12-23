@@ -5,7 +5,7 @@
 
 
 int main() {
-	//setlocale(LC_ALL, "RUS");
+	setlocale(LC_ALL, "RUS");
 
 	//printf("Введите имя файла: ");
 
