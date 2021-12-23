@@ -5,7 +5,7 @@
 #include <fstream>
 #include <sstream>
 #include <malloc.h>
-#include <locale.h>
+//#include <locale.h>
 
 using namespace std;
 

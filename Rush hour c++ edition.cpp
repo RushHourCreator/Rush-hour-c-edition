@@ -5,9 +5,9 @@
 
 
 int main() {
-	setlocale(LC_ALL, "RUS");
+	//setlocale(LC_ALL, "RUS");
 
-	//printf("Введите имя файла: ");
+	//printf("Р’РІРµРґРёС‚Рµ РёРјСЏ С„Р°Р№Р»Р°: ");
 
 	char f_name[256] = "C:\\Users\\sasha\\Desktop\\qwe2.txt";
 
